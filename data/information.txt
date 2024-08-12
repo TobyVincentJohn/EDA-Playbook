@@ -1,0 +1,37 @@
+# Datasets Used in EDA Cheatsheet Repository
+
+This document provides a guide to the datasets used in each Jupyter notebook within this repository.
+
+## 1. Descriptive Statistics
+- **Notebook**: descriptive_statistics.ipynb
+- **Dataset**: data/sample_data.csv
+- **Description**: This dataset contains demographic information, including 'Age' and 'Salary' columns, which are used to demonstrate various descriptive statistics techniques such as mean, median, mode, standard deviation, and more.
+
+## 2. Data Visualization
+- **Notebook**: data_visualization.ipynb
+- **Dataset**: data/visualization_data.csv
+- **Description**: The dataset includes various numerical and categorical features used to showcase different visualization techniques, including histograms, scatter plots, and box plots.
+
+## 3. Correlation Analysis
+- **Notebook**: correlation_analysis.ipynb
+- **Dataset**: data/correlation_data.csv
+- **Description**: This dataset is used to explore correlations between different variables, with examples of Pearson, Spearman, and Kendall correlation coefficients.
+
+## 4. Missing Data Analysis
+- **Notebook**: missing_data_analysis.ipynb
+- **Dataset**: data/missing_data.csv
+- **Description**: The dataset includes missing values in several columns, which are used to demonstrate techniques for identifying and handling missing data.
+
+## 5. Outlier Detection
+- **Notebook**: outlier_detection.ipynb
+- **Dataset**: data/outliers_data.csv
+- **Description**: This dataset contains numerical data with potential outliers, used to illustrate methods for detecting and dealing with outliers.
+
+## 6. Dimensionality Reduction
+- **Notebook**: dimensionality_reduction.ipynb
+- **Dataset**: data/dimensionality_reduction_data.csv
+- **Description**: The dataset includes high-dimensional data that is used to demonstrate techniques like PCA (Principal Component Analysis) and t-SNE for dimensionality reduction.
+
+---
+
+**Note**: All datasets are stored in the `data/` directory. Please ensure that the data files are present in the correct directory before running the notebooks.
