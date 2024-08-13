@@ -3,13 +3,13 @@
 This document provides a guide to the datasets used in each Jupyter notebook within this repository.
 
 ## 1. Descriptive Statistics
-- **Notebook**: descriptive_statistics.ipynb
-- **Dataset**: data/sample_data.csv
+- **Notebook**: Descriptive_Statistics.ipynb
+- **Dataset**: data/Titanic.csv
 - **Description**: This dataset contains demographic information, including 'Age' and 'Salary' columns, which are used to demonstrate various descriptive statistics techniques such as mean, median, mode, standard deviation, and more.
 
 ## 2. Data Visualization
-- **Notebook**: data_visualization.ipynb
-- **Dataset**: data/visualization_data.csv
+- **Notebook**: Data_Visualization.ipynb
+- **Dataset**: data/Titanic.csv,data/house_prices.csv
 - **Description**: The dataset includes various numerical and categorical features used to showcase different visualization techniques, including histograms, scatter plots, and box plots.
 
 ## 3. Correlation Analysis
