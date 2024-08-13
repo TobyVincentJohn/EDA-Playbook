@@ -18,7 +18,7 @@ Exploratory Data Analysis (EDA) is a crucial step in the data science process. I
 To get started with this repository, follow the steps below to set up your environment and run the Jupyter notebooks.
 
 1. Clone the Repository
-2. git clone https://github.com/yourusername/eda-cheatsheet.git
-   cd eda-cheatsheet
+2. git clone https://github.com/TobyVincentJohn/Eda-Playbook.git
+   cd Eda-Playbook
 3. Install Dependencies
    pip install -r requirements.txt
