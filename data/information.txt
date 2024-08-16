@@ -14,7 +14,7 @@ This document provides a guide to the datasets used in each Jupyter notebook wit
 
 ## 3. Correlation Analysis
 - **Notebook**: correlation_analysis.ipynb
-- **Dataset**: data/correlation_data.csv
+- **Dataset**: data/Titanic.csv,data/house_prices.csv
 - **Description**: This dataset is used to explore correlations between different variables, with examples of Pearson, Spearman, and Kendall correlation coefficients.
 
 ## 4. Missing Data Analysis
